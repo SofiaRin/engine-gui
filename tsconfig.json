@@ -13,6 +13,7 @@
     },
     "include": [
         "src/**/*.ts",
-        "node_modules/@types/**/*.d.ts"
+        "node_modules/@types/**/*.d.ts",
+        "engine/**/*.d.ts"
     ]
 }
